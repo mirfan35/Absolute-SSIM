@@ -3,7 +3,6 @@
 
 import cv2
 import numpy as np
-from os import listdir
 
 ##################################################################################
 # mssim from cv2 (https://docs.opencv.org/4.x/d5/dc4/tutorial_video_input_psnr_ssim.html)
