@@ -20,7 +20,7 @@ The distribution score of SSIM is not linear with the human perception score. SS
 
 # Documentation
 
-Download link: http://arqiipubl.com/ojs/index.php/AMS_Journal/article/download/328/130.
+Download link: http://arqiipubl.com/ojs/index.php/AMS_Journal/article/view/328.
 
 # APA (7th Edition) Citation
 
