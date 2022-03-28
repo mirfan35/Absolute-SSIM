@@ -4,7 +4,7 @@ SSIM or Structural Similarity is not a metric or distance function, different pi
 
 Absolute SSIM is just another variance of SSIM by replacing the luminance and contrast component of the original SSIM with relative difference relation. 
 
-![](AbsoluteSSIM vs SSIM.png)
+![Alt text](AbsoluteSSIM vs SSIM.png)
 
 # Documentation
 
