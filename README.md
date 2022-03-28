@@ -1,4 +1,4 @@
-# Absolute-SSIM
+# Absolute SSIM
 
 SSIM or Structural Similarity is not a metric or distance function, different pixel value is weighted differently and sometimes can lead to undesired results. Two high values are easier to score high similarity even though the difference between the two is clearly visible and when comparing two low values the score is low similarity even when the two images look almost the same. This measurement bias is caused by some components in the SSIM.
 
