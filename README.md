@@ -4,7 +4,17 @@ SSIM or Structural Similarity is not a metric or distance function, different pi
 
 Absolute SSIM is just another variance of SSIM by replacing the luminance and contrast component of the original SSIM with relative difference relation. 
 
+# SSIM vs Absolute SSIM
+
+# Luminance Test
+
+Measuring the mean SSIM between the intensity of 0 and 26 only score 0.009527 similarity even thought the two images look almost similar indicating the bias measurement of SSIM. On the other hand, Absolute SSIM score it as 0.898039 because Absolute SSIM measure relative error between the two intensities. Absolute SSIM is more suitable to be used when comparing darker or low intensity images. 
+
 ![](images/AbsoluteSSIM_vs_SSIM.png)
+
+# Human Perception Test 
+
+The distribution score of SSIM is not linear with the human perception score. SSIM is more generous than human judgment of similarity. Absolute SSIM is a lot more similar to human subjective score. (Dataset used available at: http://live.ece.utexas.edu/research/quality/).
 
 # Documentation
 
